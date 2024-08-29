@@ -134,6 +134,9 @@ Ravid Shwartz-Ziv\
 *PhD Thesis, 2022*
 <br>
 
+**A Survey on Information Bottleneck** [[link] (https://doi.org/10.1109/TPAMI.2024.3366349)]\
+Shizhe Hu, Zhengzheng Lou, Xiaoqiang Yan, Yangdong Ye \
+*TPAMI, 2024*
 
 ## 3. Theories
 **Gaussian Lower Bound for the Information Bottleneck Limit** [[link](https://www.jmlr.org/papers/volume18/17-398/17-398.pdf)] \
